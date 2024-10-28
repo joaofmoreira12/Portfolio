@@ -104,11 +104,6 @@ ul{
     height: 344px;
     flex-shrink: 0;
     border-radius: 173px;
-    background-image: url('imagens/foto.png'); 
-    background-size: cover; 
-    background-repeat: no-repeat; 
-    background: lightgray 100%
-    box-shadow: 0px 6px 38.8px 0px rgba(0, 0, 0, 0.25);
 }
 
 .b1{
